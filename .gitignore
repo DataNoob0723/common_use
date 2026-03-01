@@ -168,3 +168,6 @@ previous_code/
 test_outputs/
 
 secrets/
+
+.claude/settings.local.json
+.claude/logs/
